@@ -1,0 +1,421 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col_1{
+    width: 8.33%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_2{
+    width: 16.66%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_3{
+    width: 25%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_4{
+    width: 33.33%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_5{
+    width: 41.66%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_6{
+    width: 50%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_7{
+    width: 58.33%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_8{
+    width: 66.66%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_9{
+    width: 75%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_10{
+    width: 83.33%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_11{
+    width: 91.66%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_12{
+    width: 100%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+/* header starts here */
+
+header{
+    background-color: black;
+    padding: 50px 0;
+}
+
+.logo{
+    background-color:pink;
+    height: 50px;
+    width: auto;
+}
+
+.navbar{
+    background-color: pink;
+    height: 50px;
+    width: auto;
+}
+
+.btn{
+    background-color:pink;
+    height: 50px;
+    width: auto;
+}
+/* header ends here */
+/* Second header starts here */
+.key{
+    background-color:pink;
+    height: 500px;
+    width: auto;
+}
+.keychain{
+    background-color:black;
+    height: 50px;
+    width: auto;
+    margin-top: 300px;
+}
+/* Second header ends here */
+/* Third header starts here */
+.pen{
+    background-color: black;
+    height: 300px;
+    width: auto;
+}
+.pen1{
+    background-color: pink;
+    height: 200px;
+    width: auto;
+    margin-top: 50px;
+    
+}
+.pen2{
+    background-color: pink;
+    height: 200px;
+    width: auto;
+    margin-top: 50px;
+    
+}
+/* Third header starts here */
+/* Fourth header starts here */
+.chapter{
+    background-color: pink;
+    height: 200px;
+    width: auto;
+}
+.chapter1{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.chapter2{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.chapter3{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.chapter4{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+/* Fourth header ends here */
+/* fifth header starts here */
+.lesson{
+    background-color:black;
+    height: 400px;
+    width: auto;
+}
+.lesson1{
+    background-color:pink;
+    height: 350px;
+    width: 420px;
+    margin-top: 25px;
+}
+.lesson2{
+    background-color:pink;
+    height: 300px;
+    width: auto;
+    margin-top: 50px;
+}
+.lesson3{
+    background-color: pink;
+    height: 300px;
+    width: auto;
+    margin-top: 50px;
+}
+.lesson4{
+    background-color:pink;
+    height: 300px;
+    width: auto;
+    margin-top: 50px;
+}
+/* fifth header ends here */
+/* sixth header starts here */
+.book{
+    background-color: pink;
+    height: 650px;
+    width: auto;
+}
+.book1{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book2{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book3{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book4{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book5{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book6{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book7{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book8{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book9{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book10{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book11{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book12{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book13{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book14{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book15{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+.book16{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+/* sixth header ends here */
+/* seventh header starts here */
+.note{
+    background-color: black;
+    height: 200px;
+    width: auto;
+}
+.note1{
+    background-color: pink;
+    height: 130px;
+    width: auto;
+    margin-top: 50px;
+}
+.paper{
+    background-color: black;
+    height: 500px;
+    width: auto;
+}
+.paper1{
+    background-color: pink;
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+}
+.paper2{
+    background-color: pink;
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+}
+.paper3{
+    background-color: pink;
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+}
+.scale{
+    background-color:pink;
+    height: 500px;
+    width: auto;
+}
+.scale1{
+    background-color: black;
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+}
+.scale2{
+    background-color:black;
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+}
+.scale3{
+    background-color:black;
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+}
+.meter{
+    background-color:black;
+    height: 400px;
+    width: auto;
+}
+.meter1{
+    background-color:pink;
+    height: 300px;
+    width: 420px;
+    margin-top: 50px;
+}
+.meter2{
+    background-color:pink;
+    height: 300px;
+    width: 300px;
+    margin-top: 50px;
+}
+.meter3{
+    background-color: pink;
+    height: 300px;
+    width: 300px;
+    margin-top: 50px;
+}
+.meter4{
+    background-color:pink;
+    height: 300px;
+    width: 580px;
+    margin-top: 50px;
+}
+.box{
+    background-color:pink;
+    height: 200px;
+    width: auto;
+}
+.box1{
+    background-color:black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+    
+}
+.box2{
+    background-color:black;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+    
+}
+
+
+
